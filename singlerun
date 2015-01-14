@@ -1,0 +1,4 @@
+[4mRunning "protractor:singlerun" (protractor) task[24m
+[launcher] Process exited with error code 1
+[31m>> [39m
+[31mFatal error: protractor exited with code: 8[39m

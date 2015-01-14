@@ -1,0 +1,8 @@
+{
+  "strict": false,
+  "globalstrict": true,
+
+  "browser": true,
+  "devel": true,
+  "jasmine": true
+}
